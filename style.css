@@ -1,0 +1,15 @@
+.box {
+    border: solid 1px#fff;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.selected {
+    background-image: linear-gradient(225deg, #00ccff, #ff00bf);
+}
+
+.jackpot {
+    background-image: linear-gradient(225deg, #B78628, #fdd246);
+    color: black;
+}
